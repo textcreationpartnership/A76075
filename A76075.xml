@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An excellent letter from John Basire doctor of lavvs, to his son Isaac Basire</title>
+            <author>Basire, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76075</idno>
+            <idno type="STC">Wing B1036A</idno>
+            <idno type="STC">ESTC R230849</idno>
+            <idno type="EEBO-CITATION">99899693</idno>
+            <idno type="PROQUEST">99899693</idno>
+            <idno type="VID">134559</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 134559)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2417:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An excellent letter from John Basire doctor of lavvs, to his son Isaac Basire</title>
+                  <author>Basire, John.</author>
+                  <author>Basier, Isaac, 1607-1676.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Newcomb,</publisher>
+                  <pubPlace>In the Savoy [London] :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translated from French by Isaac Basire.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:134559:1" rendition="simple:additions"/>
+            <p>An Excellent LETTER FROM John Baſire <hi>Doctor of</hi> Lavvs, To his Son <hi>ISAAC BASIRE.</hi>
+            </p>
+            <p>In the <hi>SAVOY,</hi> Printed by <hi>Tho. Newcomb,</hi> 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:134559:2"/>
+            <pb n="1" facs="tcp:134559:2"/>
+            <head>A true Copy of an EXCELLENT LETTER From his Dear Father <hi>John Baſire,</hi> Doctor of Laws, and Advocate in the Parlia<g ref="char:EOLhyphen"/>ment of <hi>Rouen</hi> in <hi>France,</hi> written to his Son, (being the a Scholar of the Famous School of <hi>Eraſmus</hi> at <hi>Rotterdam</hi> in <hi>Holland:</hi>) dated the 8th of <hi>December</hi> 1623. (the Original whereof the Son keeps as a Jewel, preſerved by provi<g ref="char:EOLhyphen"/>dence, above 45 years:) and at the earneſt de<g ref="char:EOLhyphen"/>ſire of ſome godly and learned Friends, faith<g ref="char:EOLhyphen"/>fully tradſlated out of French Into Engliſh by <hi>Iſaac Baſire</hi> (his unworth y Son) now D. D. and Archdeacon of <hi>Northumberland.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>Y Son,</salute>
+            </opener>
+            <p>I have received your Letter of the 28th of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> laſt, which hath afforded me no ſmall Joy and Content; ſince by the reading of it, I have been duly informed, as well con<g ref="char:EOLhyphen"/>cerning
+<pb n="2" facs="tcp:134559:3"/>the proſperity of your firſt Voyage, as of your own good health, and of the notable proof you have alrea<g ref="char:EOLhyphen"/>dy given of your advance<g ref="char:EOLhyphen"/>ment and progreſs in the knowledge of good Letters; ſeeing that, at your firſt arri<g ref="char:EOLhyphen"/>val, and upon your firſt Tri<g ref="char:EOLhyphen"/>al, you have been judged worthy of the higheſt Form: God be praiſed for it, and give you grace to continue better and better: I do very much commend your frugali<g ref="char:EOLhyphen"/>ty, for <hi>Magnum est vectigal Parſimonia,</hi> (Good Husban<g ref="char:EOLhyphen"/>dry is a great Revenue,) but I would blame you exceed<g ref="char:EOLhyphen"/>ingly
+<pb n="3" facs="tcp:134559:3"/>if you ſhould be too ſparing to the Coſt of your Reputation, or of your Health; which you ought to prefer to the purchaſe of all Arts and Sciences, ſince, by reaſon of your indiſpoſition, they would become uſeleſs and unfruitful. Therefore, flie all Exceſs of Labour of the Mind, and rather learn in two years, what you might learn in one, if with the loſs of your health; being always mindful, That your Studies muſt be regulated by and pro<g ref="char:EOLhyphen"/>portionated unto your Natu<g ref="char:EOLhyphen"/>ral Strength; <hi>Studia enim Na<g ref="char:EOLhyphen"/>turae Regula metienda ſunt.</hi>
+               <pb n="4" facs="tcp:134559:4"/>Have a due regard to your ſmall Age<note n="(a)" place="margin">Being then but fifteen years and ten Mo<g ref="char:EOLhyphen"/>neths, and but tender <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and ſickly by Na<g ref="char:EOLhyphen"/>ture, though in proceſs of time, by Labour and Cuſ<g ref="char:EOLhyphen"/>tom, through Gods bleſſing, hardened into a healthful Temper.</note> and to the weakneſs of your Natural Strength. Beware alſo of ſuf<g ref="char:EOLhyphen"/>fering extream Colds, which you muſt ſhake off ſprightful<g ref="char:EOLhyphen"/>ly by exerciſe of Body; which will render you ſupple, cheer<g ref="char:EOLhyphen"/>ful, and active, and capable of greater Labour: purcha<g ref="char:EOLhyphen"/>ſing thereby to your ſelf a ſtrong and able Conſtitution and habit of Body: And ſeeing that God hath put into your heart the reſolu<g ref="char:EOLhyphen"/>tion to chuſe, and to fol<g ref="char:EOLhyphen"/>low ſo holy and ſo lauda<g ref="char:EOLhyphen"/>ble a Vocation (of which notwithſtanding you ought
+<pb n="5" facs="tcp:134559:4"/>not<note n="(b)" place="margin">The Father being a Doctor of Law, did in<g ref="char:EOLhyphen"/>tend his Son for the ſame Faculty; in which Study al<g ref="char:EOLhyphen"/>ſo, out of filial o<g ref="char:EOLhyphen"/>bedience, he ſpent ſome years, till he propound<g ref="char:EOLhyphen"/>ed to his Father his incli<g ref="char:EOLhyphen"/>nation for the holy Mi<g ref="char:EOLhyphen"/>niſtry, but ſtill with ſub<g ref="char:EOLhyphen"/>miſſion to his conſent, which he freely ſignified afterwards by his Letter to Dr. <hi>Morton,</hi> the late L. Biſhop, then of <hi>Litchfield</hi> and after of <hi>Durham;</hi> by whom the Son received Holy Or<g ref="char:EOLhyphen"/>ders.</note> to have made choice of your ſelf) to the end you may become worthy and capable of it, to diſcharge the ſame as be<g ref="char:EOLhyphen"/>cometh; you muſt wholly diſpoſe your ſelf to live <hi>ſo<g ref="char:EOLhyphen"/>berly</hi>
+               <note n="(c)" place="margin">Titus ii. 12.</note> 
+               <hi>righteouſly, and god<g ref="char:EOLhyphen"/>ly,</hi> endeavoring, by all poſ<g ref="char:EOLhyphen"/>ſible means, to lead your life anſwerable to your Profeſſi<g ref="char:EOLhyphen"/>on; to this end be courteous unto all men, but familiar to few: Do not frequent the com<g ref="char:EOLhyphen"/>pany of thoſe whom you will not reſemble; but if debau<g ref="char:EOLhyphen"/>ched
+<pb n="6" facs="tcp:134559:5"/>perſons ſhould entice you to their evil Courſes, conſent you not, leſt by their Converſation, and bad Diſ<g ref="char:EOLhyphen"/>courſes, your good Nature be perverted, corrupted, or al<g ref="char:EOLhyphen"/>tered for the worſe. <hi>Corrum<g ref="char:EOLhyphen"/>punt enim Bonos Mores Collo<g ref="char:EOLhyphen"/>quia prava:</hi>
+               <note n="(d)" place="margin">1 Cor. xv. 33.</note> 
+               <hi>Evil Com<g ref="char:EOLhyphen"/>munications corrupt good Man<g ref="char:EOLhyphen"/>ners.</hi> Be ſincere and upright, fearing God, and turn away from evil, as <hi>Eccleſiaſtes</hi> ad<g ref="char:EOLhyphen"/>moniſheth you in the laſt Chapter, verſe 15. <hi>Fear God and keep his Commandements, for that is the whole duty of man:</hi> And ſince<note n="(e)" place="margin">Prov. i. 7.</note> 
+               <hi>The fear of the Lord is the beginning of
+<pb n="7" facs="tcp:134559:5"/>wiſdom,</hi>
+               <note n="(f)" place="margin">Prov. iii. 5.</note> 
+               <hi>Truſt in the Lord with all your heart, and lean not to your own underſtanding:</hi> By the practice of ſo ſerious an Admonition, you will more and more draw down upon you, and your Labours and Studies the Bleſſing of God, when you ſtill refer them all to his Honour and Glory; for if (as you ought to do) <hi>you acknowledge God in all your ways,</hi>
+               <note n="(g)" place="margin">Prov. iii. 6.</note> 
+               <hi>he will direct your paths.</hi> We will joyn our fervent and inſtant prayers with yours, that as<note n="(h)" place="margin">Phil ii. 13.</note> 
+               <hi>God hath given you to will, ſo he will give you power to do, of his good pleaſure?</hi> to
+<pb n="8" facs="tcp:134559:6" rendition="simple:additions"/>his Glory, your own Salvati<g ref="char:EOLhyphen"/>on, and our Comfort: Mean while, recreate your ſelf from time to time by ſeaſonable <hi>Divertiſements</hi> from your Stu<g ref="char:EOLhyphen"/>dies to Exerciſes commenda<g ref="char:EOLhyphen"/>ble, vertuous, and no ways Childiſh<note n="(i)" place="margin">1 Cor. xiii. 2. Terent.</note> 
+               <hi>Siquidem alia aetas alios mores poſtulat:</hi> Change of Age requires change of Manners. Give your ſelf alſo, at your ſpare hours, to <hi>learn the Language of the Countrey</hi> where you are, as alſo <hi>the Art of Muſick,</hi> and <hi>to write</hi> as good a hand as you poſſibly can: It will not be one of the leaſt per<g ref="char:EOLhyphen"/>fections you may purchaſe,
+<pb n="9" facs="tcp:134559:6"/>to get a good hand, and very legible. But chiefly you muſt not ſtudy ſo much to have your Head well filled, as to have a Head well fitted or compoſed. Accuſtom your ſelf alſo, as much as you can<g ref="char:EOLhyphen"/>to <hi>ſpeak treatably</hi> and diſtinct<g ref="char:EOLhyphen"/>ly; even when you learn your Leſſons: becauſe Cuſtom turns into an Habit. <hi>Eſt e<g ref="char:EOLhyphen"/>nim Conſuetudo altera Natura:</hi> For Cuſtom is a ſecond Na<g ref="char:EOLhyphen"/>ture. Be ſure of this, that by a kind of volubility, and an over-haſty Tongue, or precipitated Pronunciation, you will find your ſelf put to it, when you are to acquit
+<pb n="10" facs="tcp:134559:7"/>your ſelf well of the duty which belongs to your Office: That defect may ren<g ref="char:EOLhyphen"/>der your Function unpleaſing, void of gracefulneſs, and without Edification. Take heed of being any wayes Vindicative, or given to Re<g ref="char:EOLhyphen"/>venge, but reſerve the Ven<g ref="char:EOLhyphen"/>geance to God.<note n="(k)" place="margin">Rom. xii. 19.</note> 
+               <hi>For Ven<g ref="char:EOLhyphen"/>geance is mine, and I will re<g ref="char:EOLhyphen"/>pay it, ſaith the Lord.</hi> But on the contrary, be charita<g ref="char:EOLhyphen"/>ble, meek, gentle, and gra<g ref="char:EOLhyphen"/>cious; and be always mind<g ref="char:EOLhyphen"/>ful that<note n="(l)" place="margin">Prov. xv. 1.</note> 
+               <hi>A ſoft anſwer turneth away wrath, but grie<g ref="char:EOLhyphen"/>vous words ſtir up anger.</hi> Never do that to another,
+<pb n="11" facs="tcp:134559:7"/>which you would be loath another ſhould do to you; and be ſure, That<note n="(m)" place="margin">Prov. x. 9<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>he that walketh uprightly walk<g ref="char:EOLhyphen"/>eth ſurely, but he that per<g ref="char:EOLhyphen"/>verteth his wayes ſhall be known.</hi> Shun and deteſt therefore all manner of Pride and of Hypocriſie: Becauſe<note n="(n)" place="margin">Luke i. 51.</note> 
+               <hi>God ſcattereth the Proud, in the Imagination of their heart; and</hi>
+               <note n="(o)" place="margin">Prov. xi. 2.</note> 
+               <hi>whenſoever Pride cometh, then cometh ſhame: but with the Lowly is Wiſdom.</hi> This is it I do now exhort you to follow, and to put in practice: Ad<g ref="char:EOLhyphen"/>ding to this end, for your encouragement, what wiſe
+<pb n="12" facs="tcp:134559:8"/>
+               <hi>Solomon</hi> hath delivered in the firſt Chapter of the <hi>Proverbs,</hi> verſes 8. and 9. <hi>My Son, hear the Inſtruction of thy Father, and forſake not the Law of thy Mother: for they ſhall be an Ornament of Grace unto thy Head, and Chains about thy Neck.</hi> Your good Propenſi<g ref="char:EOLhyphen"/>ons, and natural Inclinations, put me in good hope that you will make good uſe of theſe my Fatherly Inſtructi<g ref="char:EOLhyphen"/>ons. The Plague continues ſtill in this City, without truce or abatement; God in mercy will aſſwage it, if it be his good pleaſure, when we ſhall turn, away from our
+<pb n="13" facs="tcp:134559:8"/>own evil wayes. Be mindful of us in all your prayers, as we keep a continual remem<g ref="char:EOLhyphen"/>brance of you in the prayers which we here daily offer up unto God; you may be ſure, that, in ſo doing, you ſhall not, by the Grace of God, want our ſupply &amp; aſſiſtance, ſo far as ſhall be requiſite and neceſſary for the Continu<g ref="char:EOLhyphen"/>ance, Progreſs, and Con<g ref="char:EOLhyphen"/>ſummation, of your Studies; if it ſhall pleaſe God to pro<g ref="char:EOLhyphen"/>long our lives, till that time wherein you may have accom<g ref="char:EOLhyphen"/>pliſhed them. Upon this ground, I ſhall beſeech God, my dear Son, to preſerve you
+<pb n="14" facs="tcp:134559:9" rendition="simple:additions"/>in his holy Tuition and Pro<g ref="char:EOLhyphen"/>tection, and to fulfil you with his Bleſsings Spiritual and Cor<g ref="char:EOLhyphen"/>poral. Farewel.</p>
+            <closer>
+               <dateline>From <hi>Rouen</hi> this viij. of <date>De<g ref="char:EOLhyphen"/>cember, 1623.</date>
+               </dateline>
+               <signed>Your Father and beſt Friend, <hi>J. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
